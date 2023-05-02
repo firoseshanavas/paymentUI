@@ -1,0 +1,19 @@
+.footerWrap {
+  height: 3rem;
+  color: white;
+  padding: 2rem 4rem;
+  background-color: #6c757d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  bottom: 0;
+  width: 95%;
+}
+.rht span{
+    font-weight: 300;
+}
+.lhs{
+  font-size: 1.2rem;
+
+}
